@@ -85,5 +85,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=MaiOsamaALMoqayad&icon=5&color=9333ea" alt="Visitor Count"/>
 </p>
-
-<!-- Made with 💜 using GPRM ( https://gprm.itsvg.in ) -->
